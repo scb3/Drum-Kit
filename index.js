@@ -79,3 +79,5 @@ function buttonAnimation(currentKey) {
   }, 100);
 
 }
+
+//Need to check this is being deployed via Source Control and not just via GH Desktop
